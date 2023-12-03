@@ -49,12 +49,12 @@ Technology and Framework Used: UIkit, Swift, Combine Framework, StoryBoard, Cras
 ### 4. Homestay care:
    [`📲 Available on the App Store`](https://apps.apple.com/us/app/homestay-az/id1524984182)
 
-<img width="224" alt="Screenshot 2023-12-03 at 16 14 14" src="https://github.com/sarathkumarsankar/iOS-Developer-Portfolio/assets/12977299/33f0b97c-308b-4cc0-95b9-022f2e0a8062">
-<img width="220" alt="Screenshot 2023-12-03 at 16 14 22" src="https://github.com/sarathkumarsankar/iOS-Developer-Portfolio/assets/12977299/68e7550a-fe5c-4ffc-aa79-f858a14f5f5c">
-<img width="222" alt="Screenshot 2023-12-03 at 16 14 40" src="https://github.com/sarathkumarsankar/iOS-Developer-Portfolio/assets/12977299/0cd30212-f40b-4412-976b-da92b403add8">
+<img width="224" alt="Screenshot 2023-12-03 at 16 14 14" src="https://github.com/sarathkumarsankar/iOS-Developer-Portfolio/assets/12977299/60fbe0bc-513e-4336-a4dc-fb96d04563ca">
+<img width="220" alt="Screenshot 2023-12-03 at 16 14 22" src="https://github.com/sarathkumarsankar/iOS-Developer-Portfolio/assets/12977299/6a980bf2-240b-4cc5-a6f3-bfdfcf998b7b">
+<img width="222" alt="Screenshot 2023-12-03 at 16 14 40" src="https://github.com/sarathkumarsankar/iOS-Developer-Portfolio/assets/12977299/78965a35-bcfc-4fe4-adb2-ed02558805a0">
 
 
-Sentara MyChart provides you access to your health information and helps you conveniently and securely manage care for yourself and your family members. With Sentara MyChart you can Communicate with your care team, Review test results, medications, immunization history, and other health information, and schedule and manage appointments, including in-person visits and video visits.
+Homestay Care provides elderly citizens with more choices, convenience, and transparency in the way their care is delivered and paid for, enabling a happier, healthier aging population to stay in their own home longer.
 
 Technology and Framework Used: Ionic framework, CocoaPods, New Relic, Reachability
 
