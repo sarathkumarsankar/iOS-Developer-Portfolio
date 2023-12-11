@@ -109,7 +109,10 @@ Technology and Framework Used: UIkit, Swift, MVVM
 ### 9. SSImageViewSwiftUI: 
 [`📲 github`](https://github.com/sarathkumarsankar/SSImageViewSwiftUI)
 
-   
+   ![ezgif com-resize](https://github.com/sarathkumarsankar/iOS-Developer-Portfolio/assets/12977299/879edcb7-be82-43de-9da3-d2257cb897fa)
+
+
+
 
 SSImageViewSwiftUI is a SwiftUI framework for asynchronously downloading and displaying images from a specified URL. It also includes built-in image resizing to reduce memory usage. The view is designed for use in iOS applications and utilizes the NSCache to avoid unnecessary network traffic when the same image is requested multiple times.
 
